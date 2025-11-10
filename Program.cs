@@ -6,7 +6,7 @@ namespace MyTeamCityProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Webhook!");
+            Console.WriteLine("Hello, Webhook! #2");
         }
     }
 }
